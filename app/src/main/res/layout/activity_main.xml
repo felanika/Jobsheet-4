@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:orientation ="vertical"
+    android:weightSum="5"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FF6347"
+        >
+
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="Dwi Lustantiana Kurniasih"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="STE202202651"
+            android:textSize="15sp" />
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        >
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="Dwi Nurkhasanah"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="STE202202652"
+            android:textSize="15sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FF008000"
+        >
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="Felan Ika Amanda"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="STE202202656"
+            android:textSize="15sp" />
+
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        >
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="Feri Safaat Rifai"
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="292dp"
+            android:layout_height="42dp"
+            android:fontFamily="serif"
+            android:text="STE202202657"
+            android:textSize="15sp" />
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#FF6347"
+            >
+            <TextView
+                android:layout_width="292dp"
+                android:layout_height="42dp"
+                android:fontFamily="serif"
+                android:text="Ovi Rahmadani"
+                android:textSize="20sp" />
+            <TextView
+                android:layout_width="292dp"
+                android:layout_height="42dp"
+                android:fontFamily="serif"
+                android:text="STE202202665"
+                android:textSize="15sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
